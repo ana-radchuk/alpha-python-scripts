@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1691072537000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 7
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "96 km ENE of Port-Olry, Vanuatu",
+                "time": 1690375475156,
+                "updated": 1690462275302,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000kvmq",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000kvmq.geojson",
+                "felt": 4,
+                "cdi": 4.7,
+                "mmi": 6.187,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 632,
+                "net": "us",
+                "code": "6000kvmq",
+                "ids": ",pt23207000,us6000kvmq,",
+                "sources": ",pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 192,
+                "dmin": 6.725,
+                "rms": 0.65,
+                "gap": 28,
+                "magType": "mww",
+                "type": "explosion",
+                "title": "M 6.4 - 96 km ENE of Port-Olry, Vanuatu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.9249,
+                    -14.7565,
+                    10
+                ]
+            },
+            "id": "us6000kvmq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "2 km E of Chino Valley, Arizona",
+                "time": 1690145526293,
+                "updated": 1691016219432,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000khv5",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000khv5.geojson",
+                "felt": 973,
+                "cdi": 5.8,
+                "mmi": 4.442,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 786,
+                "net": "us",
+                "code": "7000khv5",
+                "ids": ",us7000khv5,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": 27,
+                "dmin": 0.375,
+                "rms": 1.08,
+                "gap": 42,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 3.8 - 2 km E of Chino Valley, Arizona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.4319,
+                    34.7585,
+                    5
+                ]
+            },
+            "id": "us7000khv5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "43 km S of Intipucá, El Salvador",
+                "time": 1689726127747,
+                "updated": 1690910457737,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kgpb",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kgpb.geojson",
+                "felt": 164,
+                "cdi": 8.2,
+                "mmi": 6.069,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 784,
+                "net": "us",
+                "code": "7000kgpb",
+                "ids": ",us7000kgpb,at00ry0p0x,",
+                "sources": ",us,at,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 92,
+                "dmin": 0.679,
+                "rms": 1.32,
+                "gap": 40,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - 43 km S of Intipucá, El Salvador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1265,
+                    12.814,
+                    69.727
+                ]
+            },
+            "id": "us7000kgpb"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "18 km SE of Loncopué, Argentina",
+                "time": 1689563111450,
+                "updated": 1689892552835,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kg9g",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kg9g.geojson",
+                "felt": 348,
+                "cdi": 6.6,
+                "mmi": 4.468,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 900,
+                "net": "us",
+                "code": "7000kg9g",
+                "ids": ",us7000kg9g,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 145,
+                "dmin": 1.593,
+                "rms": 0.73,
+                "gap": 15,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - 18 km SE of Loncopué, Argentina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4688,
+                    -38.1951,
+                    186
+                ]
+            },
+            "id": "us7000kg9g"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.2,
+                "place": "98 km S of Sand Point, Alaska",
+                "time": 1689490102606,
+                "updated": 1690873107842,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kg30",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kg30.geojson",
+                "felt": 126,
+                "cdi": 7.8,
+                "mmi": 6.032,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 896,
+                "net": "us",
+                "code": "7000kg30",
+                "ids": ",at00rxvmwl,us7000kg30,pt23197000,ak02391wqb5h,",
+                "sources": ",at,us,pt,ak,",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": 173,
+                "dmin": 0.907,
+                "rms": 1.25,
+                "gap": 36,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.2 - 98 km S of Sand Point, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -160.7604,
+                    54.4596,
+                    32.571
+                ]
+            },
+            "id": "us7000kg30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "87 km SW of El Palmarcito, Mexico",
+                "time": 1689326941360,
+                "updated": 1689669924972,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kfnc",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kfnc.geojson",
+                "felt": 33,
+                "cdi": 7.9,
+                "mmi": 4.26,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 637,
+                "net": "us",
+                "code": "7000kfnc",
+                "ids": ",us7000kfnc,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 116,
+                "dmin": 2.086,
+                "rms": 0.94,
+                "gap": 75,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 87 km SW of El Palmarcito, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.8771,
+                    15.0337,
+                    35
+                ]
+            },
+            "id": "us7000kfnc"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "276 km NNE of Codrington, Antigua and Barbuda",
+                "time": 1689020906215,
+                "updated": 1690225407258,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000keq3",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000keq3.geojson",
+                "felt": 417,
+                "cdi": 6,
+                "mmi": 3.891,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 920,
+                "net": "us",
+                "code": "7000keq3",
+                "ids": ",at00rxlkvc,pt23191050,us7000keq3,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 110,
+                "dmin": 2.45,
+                "rms": 0.73,
+                "gap": 37,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - 276 km NNE of Codrington, Antigua and Barbuda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.082,
+                    20.0391,
+                    14
+                ]
+            },
+            "id": "us7000keq3"
+        }
+    ],
+    "bbox": [
+        -160.7604,
+        -38.1951,
+        5,
+        167.9249,
+        54.4596,
+        186
+    ]
+}

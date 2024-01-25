@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-07-26",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000kvmq",
+        "mag": 6.4,
+        "place": "96 km ENE of Port-Olry, Vanuatu"
+    },
+    {
+        "date": "2023-07-18",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kgpb",
+        "mag": 6.5,
+        "place": "43 km S of Intipuc\u00e1, El Salvador"
+    },
+    {
+        "date": "2023-07-16",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kg9g",
+        "mag": 6.6,
+        "place": "18 km SE of Loncopu\u00e9, Argentina"
+    },
+    {
+        "date": "2023-07-16",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kg30",
+        "mag": 7.2,
+        "place": "98 km S of Sand Point, Alaska"
+    },
+    {
+        "date": "2023-07-14",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kfnc",
+        "mag": 6.3,
+        "place": "87 km SW of El Palmarcito, Mexico"
+    },
+    {
+        "date": "2023-07-10",
+        "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000keq3",
+        "mag": 6.6,
+        "place": "276 km NNE of Codrington, Antigua and Barbuda"
+    }
+]

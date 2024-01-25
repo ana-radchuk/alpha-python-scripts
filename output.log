@@ -1,0 +1,3 @@
+User: user@example.com 08/03/2023 05:02:12 PM: INFO: <module> Line:15 This is an info-level log message
+User: user@example.com 08/03/2023 05:02:12 PM: WARNING: <module> Line:16 this is a warning-level message
+User: user@example.com 08/03/2023 05:02:12 PM: DEBUG: another_func Line:13 This is a debug-level log message
